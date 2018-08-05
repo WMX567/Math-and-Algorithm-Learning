@@ -1,1 +1,1 @@
-# Learning resources collections
+# Learning resources collection

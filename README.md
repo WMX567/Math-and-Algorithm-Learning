@@ -1,1 +1,1 @@
-# Learning Resources and Notes
+# Math Learning Resources and Notes

@@ -1,4 +1,5 @@
 # Math and Algorithm Learning Resources/Notes
+A collection of books/notes for Math and Algorithm study
 ## Catalog
 - &emsp;<a href="#0">Math Learning Resources</a>  
 &emsp;&emsp;<a href="#1">- Analysis</a>  

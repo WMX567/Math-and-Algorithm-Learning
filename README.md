@@ -1,5 +1,5 @@
 # Math and Algorithm Learning Resources/Notes
-### Catalog
+## Catalog
 - &emsp;<a href="#0">Math Learning Resources</a>  
 &emsp;&emsp;<a href="#1">- Analysis</a>  
 &emsp;&emsp;<a href="#2">- Algebra</a>  

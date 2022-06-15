@@ -1,3 +1,4 @@
+# Catalog
 ### <a href="#0">Math and Algorithm Learning Resources/Notes</a>  
 #### &emsp;<a href="#1">Math Learning Resources</a>  
 - &emsp;&emsp;<a href="#2">Analysis</a>  

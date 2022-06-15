@@ -1,17 +1,16 @@
-<a name="index">**Index**</a>
-<a href="#0">Math and Algorithm Learning Resources/Notes</a>  
-&emsp;<a href="#1">Math Learning Resources</a>  
-&emsp;&emsp;<a href="#2">Analysis</a>  
-&emsp;&emsp;<a href="#3">Algebra</a>  
-&emsp;&emsp;<a href="#4">Statistics</a>  
-&emsp;&emsp;<a href="#5">Optimization</a>  
-&emsp;<a href="#6">Math Learning Notes</a>  
-&emsp;<a href="#7">Algorithm Learning Resources</a>  
-&emsp;&emsp;<a href="#8">Data Structure and Algorithms</a>  
-&emsp;&emsp;<a href="#9">Machine Learning</a>  
-&emsp;<a href="#10">Algorithm Learning Notes</a>  
-&emsp;&emsp;<a href="#11">Introduction to Algorithm</a>  
-&emsp;&emsp;<a href="#12">Graph Neural Network</a>  
+### <a href="#0">Math and Algorithm Learning Resources/Notes</a>  
+#### &emsp;<a href="#1">Math Learning Resources</a>  
+- &emsp;&emsp;<a href="#2">Analysis</a>  
+- &emsp;&emsp;<a href="#3">Algebra</a>  
+- &emsp;&emsp;<a href="#4">Statistics</a>  
+- &emsp;&emsp;<a href="#5">Optimization</a>  
+#### &emsp;<a href="#6">Math Learning Notes</a>  
+#### &emsp;<a href="#7">Algorithm Learning Resources</a>  
+- &emsp;&emsp;<a href="#8">Data Structure and Algorithms</a>  
+- &emsp;&emsp;<a href="#9">Machine Learning</a>  
+#### &emsp;<a href="#10">Algorithm Learning Notes</a>  
+- &emsp;&emsp;<a href="#11">Introduction to Algorithm</a>  
+- &emsp;&emsp;<a href="#12">Graph Neural Network</a>  
 # <a name="0">Math and Algorithm Learning Resources/Notes</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 ## <a name="1">Math Learning Resources</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 ### <a name="2">Analysis</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>

@@ -18,3 +18,5 @@
 ## Algorithm
 - Introduction to Algorithms by Thomas H. Corman
 - Information Theory, Inference, and Learning Algorithms by David J.C. MacKay
+
+

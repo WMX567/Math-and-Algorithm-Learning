@@ -18,7 +18,7 @@
 - [Analysis II by Terence Tao](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Analysis/Analysis%20II%20Terence%20Tao.pdf)
 - [Fourier Analysis: An Introduction by Elias M. Stein and Rami Shakarchi](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Analysis/Fourier_Analysis_Stein_Shakarchi.pdf)
 
-### <a name="2">Algebra</a><
+### <a name="2">Algebra</a>
 - [Algebra by Micheal Artin](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/Artin%20Algebra.pdf)
 - [Linear Algebra by Kenneth Hoffmann And Ray Kunze](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/Linear%20Algebra%2C%202Nd%20Edition%20-%20Kenneth%20Hoffmann%20And%20Ray%20Kunze.pdf)
 - [The Matrix Cookbook by Kaare Brandt Petersen and Michael Syskind Pedersen](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/matrixcookbook.pdf)

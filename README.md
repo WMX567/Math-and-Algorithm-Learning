@@ -38,6 +38,7 @@ Coming soon...
 - [Introduction to Algorithms by Thomas H. Corman](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algorithm/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 ### <a name="8">Machine Learning</a>
 - [Information Theory, Inference, and Learning Algorithms by David J.C. MacKay](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algorithm/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
+- [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algorithm/Machine%20Learning/GRL_Book.pdf)
 
 ## <a name="9">Algorithm Learning Notes</a>
 ### <a name="10">Introduction to Algorithm</a>

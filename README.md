@@ -8,7 +8,7 @@
 - Linear Algebra by Kenneth Hoffmann And Ray Kunze
 - The Matrix Cookbook by Kaare Brandt Petersen and Michael Syskind Pedersen
 
-## Statitics
+## Statistics
 - A First Course in Probability by Sheldon Ross
 - Probability and Random Processes by Geoffery Grimmett and David Stirzaker
 

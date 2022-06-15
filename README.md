@@ -21,6 +21,7 @@
 ### <a name="2">Algebra</a>
 - [Algebra by Micheal Artin](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/Artin%20Algebra.pdf)
 - [Linear Algebra by Kenneth Hoffmann And Ray Kunze](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/Linear%20Algebra%2C%202Nd%20Edition%20-%20Kenneth%20Hoffmann%20And%20Ray%20Kunze.pdf)
+- [Linear Algebra Done Right by Sheldon Axler and Kenneth Ribet](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/Linear_Algebra_Done_Right.pdf)
 - [The Matrix Cookbook by Kaare Brandt Petersen and Michael Syskind Pedersen](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Algebra/matrixcookbook.pdf)
 
 ### <a name="3">Statistics</a>

@@ -1,5 +1,5 @@
 # Math and Algorithm Learning Resources/Notes
-A collection of books/notes for Math and Algorithm study. The Download Link for each book/note is provided below. All files are in PDF format and saved in my shared Google Drive folder. Books are collected from the internet. Some of them are my textbooks, and some of them are references I found particularly useful. Notes are written by myself. I hope these resources are helpful!
+A collection of books/notes for Math and Algorithm study. The Download Link for each book/note is provided below. All files are in PDF format and saved in my [shared Google Drive folder](https://drive.google.com/drive/folders/1693RRkRFiHbCtdGcI0sijQtVxTJ4c-ox?usp=sharing). Books are collected from the internet. Some of them are my textbooks, and some of them are references I found particularly useful. Notes are written by myself. I hope these resources are helpful!
 
 ## Catalog
 - &emsp;<a href="#0">Math Learning Resources</a>  

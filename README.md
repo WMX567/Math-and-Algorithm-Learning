@@ -25,7 +25,7 @@ A collection of books/notes for Math and Algorithm study. The Download Link for 
 
 ### <a name="2">Algebra</a>
 - [Algebra by Micheal Artin](https://drive.google.com/file/d/1DR9fzyBp7mjBY-jrORKGDMDRIniYbxL3/view?usp=sharing)
-- [Linear Algebra by Kenneth Hoffmann And Ray Kunze](hhttps://drive.google.com/file/d/1IZ8j6kAA5EPRhqWouiPNaqGCEE8Ef0eo/view?usp=sharing)
+- [Linear Algebra by Kenneth Hoffmann And Ray Kunze](https://drive.google.com/file/d/1IZ8j6kAA5EPRhqWouiPNaqGCEE8Ef0eo/view?usp=sharing)
 - [Linear Algebra Done Right by Sheldon Axler and Kenneth Ribet](https://drive.google.com/file/d/1IZ3w2ltCraSHK-ycLMuEDL9UyIgZsAhx/view?usp=sharing)
 - [The Matrix Cookbook by Kaare Brandt Petersen and Michael Syskind Pedersen](https://drive.google.com/file/d/1RSuQRIabezsJPngOdzVNdtjr-hsCgdl8/view?usp=sharing)
 

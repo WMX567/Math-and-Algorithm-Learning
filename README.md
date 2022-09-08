@@ -1,5 +1,5 @@
 # Math and Algorithm Learning Resources
-A collection of books/notes for Math and Algorithm study. The Download Link for each book/note is provided below. All files are in PDF format and saved in my [shared Google Drive folder](https://drive.google.com/drive/folders/1693RRkRFiHbCtdGcI0sijQtVxTJ4c-ox?usp=sharing). Books are collected from the internet. Some of them are my textbooks, and some of them are references I found particularly useful. Notes are written by myself. I hope these resources are helpful!
+A collection of books/notes for Math and Algorithm study. All files are in PDF format and saved in this repo. Books are collected from the internet. Some of them are my textbooks, and some of them are references I found particularly useful. Notes are written by myself. I hope these resources are helpful!
 
 ### Catalog
 - &emsp;<a href="#0">Math Learning Resources</a>  
@@ -46,15 +46,15 @@ Coming soon...
 
 ### <a name="8">Machine Learning</a>
 - [Information Theory, Inference, and Learning Algorithms by David J.C. MacKay](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
-- [Understanding Machine Learning from Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David]
+- [Understanding Machine Learning from Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/understanding-machine-learning-theory-algorithms.pdf)
 ### Graph Learning
 - [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/GRL_Book.pdf)
 ### Online Learning
-- [Introduction to Online Optimization by Sebastien Bubeck]
-- [A Modern Introduction to Online Learning by Francesco Orabona]
-- [Online Learning and Online Convex Optimization by Shai Shalev-Shwartz]
-- [Prediction, Learning, and Games by Nicolo Cesa-Bianchi and Gabor Lugosi]
-- [Bandit Algorithms by Tor Lattimore and Csaba Szepesvári]
+- [Introduction to Online Optimization by Sebastien Bubeck](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Intro_Online_Optimization.pdf)
+- [A Modern Introduction to Online Learning by Francesco Orabona](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Intro_Online_Learning.pdf)
+- [Online Learning and Online Convex Optimization by Shai Shalev-Shwartz](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Oline_Learning_Online_Convex_Optimization.pdf)
+- [Prediction, Learning, and Games by Nicolo Cesa-Bianchi and Gabor Lugosi](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Prediction_Learning_and_Games.pdf)
+- [Bandit Algorithms by Tor Lattimore and Csaba Szepesvári](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/bandit_algorithm.pdf)
 
 ## <a name="9">Algorithm Learning Notes</a>
 ### <a name="10">Introduction to Algorithm</a>

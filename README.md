@@ -13,7 +13,7 @@ A collection of books/notes for Math and Algorithm study. The Download Link for 
 &emsp;&emsp;<a href="#8">- Machine Learning</a>  
 - &emsp;<a href="#9">Algorithm Learning Notes</a>  
 &emsp;&emsp;<a href="#10">- Introduction to Algorithm</a>  
-&emsp;&emsp;<a href="#11">- Graph Neural Network</a>  
+&emsp;&emsp;<a href="#11">- Graph Learning </a>  
 &emsp;&emsp;<a href="#12">- Transfer Learning</a>  
 &emsp;&emsp;<a href="#12">- Learning Theory</a>  
 
@@ -46,7 +46,15 @@ Coming soon...
 
 ### <a name="8">Machine Learning</a>
 - [Information Theory, Inference, and Learning Algorithms by David J.C. MacKay](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
+- [Understanding Machine Learning from Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David]
+### Graph Learning
 - [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/GRL_Book.pdf)
+### Online Learning
+- [Introduction to Online Optimization by Sebastien Bubeck]
+- [A Modern Introduction to Online Learning by Francesco Orabona]
+- [Online Learning and Online Convex Optimization by Shai Shalev-Shwartz]
+- [Prediction, Learning, and Games by Nicolo Cesa-Bianchi and Gabor Lugosi]
+- [Bandit Algorithms by Tor Lattimore and Csaba Szepesvári]
 
 ## <a name="9">Algorithm Learning Notes</a>
 ### <a name="10">Introduction to Algorithm</a>
@@ -58,7 +66,7 @@ Coming soon...
 - [Max-Min Heap](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm%20Learning%20Notes/Introduction%20to%20Algorithm/Max_Min_Heap.pdf)
 - [Data Structure](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm%20Learning%20Notes/Introduction%20to%20Algorithm/Data_Structure.pdf)
 
-### <a name="11">Graph Neural Network</a>
+### <a name="11">Graph Learning</a>
 - [Graph Convolutional Neural Network](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm%20Learning%20Notes/Machine%20Learning/Graph_Convolutional_Neural_Network.pdf)
 
 ### <a name="12">Transfer Learning</a>

@@ -24,7 +24,7 @@ A collection of books/notes for Math and Algorithm study. The Download Link for 
 - [Fourier Analysis: An Introduction by Elias M. Stein and Rami Shakarchi](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Fourier_Analysis_Stein_Shakarchi.pdf)
 
 ### <a name="2">Algebra</a>
-- [Algebra by Micheal Artin](https://drive.google.com/file/d/1DR9fzyBp7mjBY-jrORKGDMDRIniYbxL3/view?usp=sharing)
+- [Algebra by Micheal Artin](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Artin%20Algebra.pdf)
 - [Linear Algebra by Kenneth Hoffmann And Ray Kunze](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Linear%20Algebra%2C%202Nd%20Edition%20-%20Kenneth%20Hoffmann%20And%20Ray%20Kunze.pdf)
 - [Linear Algebra Done Right by Sheldon Axler and Kenneth Ribet](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Linear_Algebra_Done_Right.pdf)
 - [The Matrix Cookbook by Kaare Brandt Petersen and Michael Syskind Pedersen](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/matrixcookbook.pdf)

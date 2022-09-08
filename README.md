@@ -32,6 +32,7 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 ### <a name="3">Statistics</a>
 - [A First Course in Probability by Sheldon Ross](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Intro_Probability_Ross_8th_ed_English.pdf)
 - [Probability and Random Processes by Geoffery Grimmett and David Stirzaker](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/Probability_and_Random_Processes_Grimmett_and_%20Stirzaker_Third%20Ed(2001).pdf)
+- [Mathematical Statistics and Data Analysis by John A.Rice](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/%5BDuxbury%20Advanced%5D%20John%20A.%20Rice%20-%20Mathematical%20Statistics%20and%20Data%20Analysis%203ed%20(Duxbury%20Advanced)%20%20%20(2006%2C%20Duxbury%20Press).pdf)
 
 ### <a name="4">Optimization</a>
 - [Convex Optimization by Stephen Boyd and Lieven Vandenberghe](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/convex_optimization.pdf)

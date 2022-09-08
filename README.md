@@ -42,7 +42,7 @@ Coming soon...
 ## <a name="6">Algorithm Learning Resources</a>
 ### <a name="7">Data Structure and Algorithms</a>
 - [Introduction to Algorithms by Thomas H. Corman](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Data%20Structure%20and%20Algorithms/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-- [Algorithm Design by Jon Kleinberg and Éva Tardos]
+- [Algorithm Design by Jon Kleinberg and Éva Tardos](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Data%20Structure%20and%20Algorithms/Algorithm%20Design.pdf)
 
 ### <a name="8">Machine Learning</a>
 - [Information Theory, Inference, and Learning Algorithms by David J.C. MacKay](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)

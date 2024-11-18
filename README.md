@@ -48,6 +48,9 @@ Coming soon...
 ### <a name="8">Machine Learning</a>
 - [Information Theory, Inference, and Learning Algorithms by David J.C. MacKay](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
 - [Understanding Machine Learning from Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/understanding-machine-learning-theory-algorithms.pdf)
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+- [Statistical Learning and Sequential Prediction](https://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf)
+  
 ### Graph Learning
 - [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Algorithm/Machine%20Learning/GRL_Book.pdf)
 ### Online Learning
